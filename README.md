@@ -37,7 +37,7 @@ Finally, run the python file. Try out these features:
 ## Inspiration
 According to the World Health Organization, there are around 250 million people worldwide who have a severe visual impairment. Of that group, over 40 million have blindness. As well, there are over 430 million people who are hard of hearing or deaf.
 
-One of the schools that I previously attended had a Deaf & Hard of Hearing (DHH) program. I met lots of amazing people at that school and had the pleasure of meeting two of my now-closest friends, who are DHH. I have always wanted to create an application that would help individuals who have impairments, whether it be visual or auditory. Although this project might not be able to really help them right now, I am slowly heading in the right direction.
+One of the schools that I previously attended had a Deaf & Hard of Hearing (DHH) program. I met lots of amazing people at that school and had the pleasure of meeting two of my now-closest friends, who are DHH. I have always wanted to create an application that would help individuals who have impairments, whether it be visual or auditory. Although this is still a developing project with many features in the planning phase, I believe I am headed in the right direction.
 
 ## What it does
 This project aims to help individuals with visual or auditory impairments worldwide.
