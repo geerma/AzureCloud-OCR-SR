@@ -62,10 +62,14 @@ It was my first time using Microsoft Azure, and it took a lot of time to go thro
 Although I have coded previously in Python, it was my first time actually creating an application for a hackathon using it. It was also my first time using PySimpleGUI.
 
 ## What we learned
+
 -Microsoft Azure, particularly Computer Vision and Speech Recognition
+
 -PySimpleGUI
+
 -Project ideation, design, and implementation
+
 -Time management
 
 ## What's next for Blue Sky
-Transitioning the application from a desktop GUI application to a mobile application would be the #1 priority.
+Transitioning the application from a desktop GUI application to a mobile application would be the #1 priority. Adding text-to-speech, translation, and an improved text display would be next on the list.
