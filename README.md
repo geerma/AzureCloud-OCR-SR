@@ -2,7 +2,13 @@
 
 ## How to Run
 
-Install dependencies by running the below commands:
+Create and run [virtual environment](https://docs.python.org/3/library/venv.html) (*example for windows*):
+```
+python -m venv env
+env\Scripts\activate.bat
+```
+
+Install dependencies by running the below commands in the console (*or install from requirements.txt*):
 ```
 pip install --upgrade azure-cognitiveservices-vision-computervision
 pip install azure-cognitiveservices-speech
@@ -10,7 +16,7 @@ pip install pysimplegui
 pip install pillow
 ```
 
-Replace Environment Variables (located on code snippet below)
+Replace Environment Variables (located on code snippet below):
 ```
 AUDIO_API_KEY = "INSERT-SPEECH-API-KEY-HERE" 
 AUDIO_REGION = ~
@@ -18,10 +24,15 @@ OCR_ENDPOINT = ~
 OCR_API_KEY = "INSERT-OCR-API-KEY-HERE"
 ```
 
-Then run the python file
-```
-main.py
-```
+Finally, run the python file. Try out these features:
+- Click browse and navigate to a folder containing images that you wish to extract text from. Sample images included in project directory.
+- Press the "Record" button and speak into the microphone to test the speech-to-text functionality.
+
+## Link
+
+[Presentation and Demo Video](https://www.youtube.com/watch?v=lbtkFfAqi80)
+
+[Devpost](https://devpost.com/software/blue-sky-gtr531)
 
 ## Inspiration
 According to the World Health Organization, there are around 250 million people worldwide who have a severe visual impairment. Of that group, over 40 million have blindness. As well, there are over 430 million people who are hard of hearing or deaf.
