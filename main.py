@@ -22,10 +22,10 @@ import os.path
 import time
 
 # VARIABLES
-AUDIO_API_KEY = "d5097cd7675442519633f134447c78e6"
+AUDIO_API_KEY = "INSERT-SPEECH-API-KEY-HERE" 
 AUDIO_REGION = "westus2" 
 OCR_ENDPOINT = "https://cognitive-services-azure-cloud.cognitiveservices.azure.com"
-OCR_API_KEY = "953d735cb79745d6b4ca70ddf6f5dd28"
+OCR_API_KEY = "INSERT-OCR-API-KEY-HERE"
 
 # Create the PySimpleGUI
 def GUI():
@@ -68,7 +68,7 @@ def GUI():
     ]
 
     # Initialize Window with specified layout
-    window = sg.Window("Azure", layout)
+    window = sg.Window("Blue Sky", layout)
 
     while True:
         event, values = window.read()
